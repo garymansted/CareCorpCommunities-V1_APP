@@ -1,9 +1,6 @@
 ## Care Corp Communities - V1
 The *first version* of the CCCommunities application allowed community members to book the recreational facilities in their building and make appointments with their Building Manager. See below.
 
-<a href="https://github.com/garymansted/CareCorpCommunities-V1_APP"><img src="/assets/CCC_Image_1.png" width="170" height="360" title="Care Corp Communities - Residents Help App"></a>
-
-
 <p align="left">
   <img src="/assets/CCC_Image_0.png" width="360" height="360" title="Care Corp Communities - Residents Help App">
   <img src="/assets/CCC_Image_1.png" width="170" height="360" title="Care Corp Communities - Residents Help App">
